@@ -7,4 +7,6 @@ print("This is third line from Github")
 
 """
 C: update from local git (Guram)
+
+D: update from Github (from another user)
 """
